@@ -1,0 +1,24 @@
+title: Designing your own copilot using Copilot Studio
+description: This lab showcases how to Design your own copilot using Copilot Studio. 
+theme: just-the-docs
+
+aux_links:
+  "Designing your own copilot using Copilot Studio": 
+    - "https://github.com/microsoft/TechExcel-Designing-your-own-copilot-using-copilot-studio"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
