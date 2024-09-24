@@ -1,1 +1,44 @@
+---
+title: '1. Use entities and slot filling'
+layout: default
+nav_order: 1
+parent: 'Exercise 02: Authoring 101'
+---
 
+## Task 1: Use entities and slot filling
+
+In this task, you'll learn how to use entities and slot filling.
+
+1.	With your copilot open in Microsoft Copilot Studio, go to **Settings** in top-right corner, and select **Entities**. Then select **Add an entity** and **New entity**.
+
+ 	![A screenshot of a computer Description automatically generated](instructions271830\Media01\599c9092d06f62a90e871ef9b01bf214.png)
+
+2.	Within the **Create an entity** dialog, select **Closed List**.
+
+3.	Within the Name field of the **Order Action** pane, enter the name +++Order Action+++.
+
+4.	Add three options within the List items called +++Update+++, +++Check+++, and +++Cancel+++.
+
+	>[!hint] You can also choose to add synonyms by selecting synonyms for each option (optional for this task).
+
+5.	Make sure **Smart matching** is toggled **on**, and then select **Save**.
+
+ 	![A screenshot of a computer Description automatically generated](instructions271830\Media01\217010e886a68067a32ec74eb9a8abdf.png)
+
+ 	- This action creates a new entity called **Order Action** that you can use with the **Question** node in your topic to place **User's entire response** with **Order Action**.
+
+6.	Return to the topic that you created in previous lab, called **Check Order Status**, and select the **Question** node that you created to originally identify the user's full response. 
+
+6.	Select **Identify**, and a slide-out menu will display on the right, where you can select an entity from the list.
+
+7. 	Search for and select the **custom entity** that you created in the previous step called **Order Action**.
+
+ 	![A screenshot of a computer screen Description automatically generated](instructions271830\Media01\f1151a480dd933b634ac387794330c2d.png)
+
+7.	Select **select options for user** and then select **all options** to display to the user.
+ 	![A screenshot of a computer Description automatically generated](instructions271830\Media01\68206662ddd692db6333c1a9cca96534.png)
+
+8.	Save your topic.
+
+
+You have successfully set up a custom entity for your Question node. The default behavior for question nodes is, if the variable that the question response is stored in has a value already, then the question is skipped and not asked.
