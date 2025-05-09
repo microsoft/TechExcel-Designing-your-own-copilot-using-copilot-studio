@@ -14,7 +14,7 @@ Finally, you'll explore advanced features like using plugin actions to interact 
 
 ## Architecture
 
-!IMAGE[o2w1le2j.jpg](media/o2w1le2j.jpg)
+![o2w1le2j.jpg](media/o2w1le2j.jpg)
 
 ## Exercises
 
