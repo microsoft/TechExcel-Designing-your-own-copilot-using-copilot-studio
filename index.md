@@ -6,6 +6,7 @@ nav_order: 1
 
 # TechWorkshop L300: Designing your own Copilot with Copilot Studio
 
+
 This lab teaches you how to create and enhance a custom AI-powered customer service agent using Microsoft Copilot Studio. You'll start by learning to create a new agent, add content, and explore the fundamentals of **Message** and **Question** nodes, entities, slot filling, and variables, essential for building interactive conversational agents.
 
 As you progress, you'll integrate external data sources and services with your agent. You'll use Power Automate to request data from other sources and return it in a conversational dialog. You'll also understand the basics of the **HTTP Request** node and how to retrieve information from external services. By pointing your agent to your website and other knowledge sources, you'll make it smarter and more capable of providing accurate information, guided by custom prompt instructions.
