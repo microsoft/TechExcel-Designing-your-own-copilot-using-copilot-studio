@@ -1,1 +1,1 @@
-# TechExcel-Designing-your-own-copilot-using-copilot-studio
+# TechWorkshop-L300-Designing-your-own-Copilot-with-Copilot-Studio
