@@ -22,10 +22,10 @@ Finally, you'll explore advanced features like using plugin actions to interact 
 This lab has the following exercises:
 
 -   Create your first agent in Microsoft Copilot Studio.
--   Learn basic authoring.
+-   Add capabilities to the agent.
 -   Build and call Power Automate cloud flows from your agent.
--   Make HTTP requests to connect to an API.
--   Leverage knowledge sources, AI knowledge, and custom instructions
+-   Connect to an MCP server.
+-   Implement knowledge sources.
 -   Use generative AI orchestration to interact with your connectors.
 -   Invoke AI Builder prompts
 
@@ -34,10 +34,8 @@ This lab has the following exercises:
 
 For running this lab, you’ll need:
 
--   Power Platform Environment with Dataverse enabled
--   Microsoft Copilot Studio Trial Subscription activated within Power Platform environment
--   Power Automate
--   Access to Azure OpenAI services
+-   a Power Platform environment with Dataverse enabled.
+-   a Microsoft Copilot Studio subscription activated within Power Platform environment.
 
 ## Customer story
 
