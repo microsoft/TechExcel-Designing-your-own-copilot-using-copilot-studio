@@ -1,9 +1,9 @@
-title: TechWorkshop L300 - Designing your own Copilot with Copilot Studio
-description: This lab showcases how to Design your own copilot using Copilot Studio. 
+title: TechWorkshop L300 - Developing Agents with Copilot Studio
+description: This lab showcases how to Develop your own agent using Copilot Studio. 
 theme: just-the-docs
 
 aux_links:
-  "Designing your own copilot using Copilot Studio": 
+  "Developing Agents with Copilot Studio": 
     - "https://github.com/microsoft/TechExcel-Designing-your-own-copilot-using-copilot-studio"
 
 callouts_level: quiet # or loud

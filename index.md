@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# TechWorkshop L300: Designing your own Copilot with Copilot Studio
+# TechWorkshop L300: Developing Agents with Copilot Studio
 
 
 This lab teaches you how to create and enhance a custom AI-powered customer service agent using Microsoft Copilot Studio. You'll start by learning to create a new agent, add content, and explore the fundamentals of **Message** and **Question** nodes, entities, slot filling, and variables, essential for building interactive conversational agents.
